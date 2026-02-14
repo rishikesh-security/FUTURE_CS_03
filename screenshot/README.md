@@ -1,8 +1,8 @@
 ### GET Request Test
 ![GET Request]
 
-### Response Data Inspection
-![Response Data]
+### api test in postman
+![test in postman]
 
-### Header Analysis
-![Header Analysis]
+### browser tool Analysis
+![browser tool analysis]
